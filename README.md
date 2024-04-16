@@ -2,7 +2,7 @@
 
 Submitted by: **Oluwasubomi Bashorun**
 
-**BeRealPart2** is an app that introduces ... [TODO] 
+**BeRealPart2** is an app that allows users to take and post pictures. You'll be able to log out your user, persist your credentials, use your camera to take photos, and more! 
 
 Time spent: **2** hours spent in total
 
